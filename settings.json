@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "szajcik-77yV.aternos.me:61890",
-    "port": 27586,
-    "version": "61890",
+    "port": 61890,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {

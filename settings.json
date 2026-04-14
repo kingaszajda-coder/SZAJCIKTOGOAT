@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "szajcik-77yV.aternos.me:61890",
-    "port": 61890,
-    "version": "1.21.4"
+    "ip": "szajcik.aternos.me",
+    "port": 19807,
+    "version": "1.21.11"
     "try-creative": false
   },
   "position": {
